@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import "../Styling/SignUpPage.css";
-import auth from "../firebase";
+//import auth from "../firebase";
 
 const SignUpPage = () => {
   const register = (e) => {
