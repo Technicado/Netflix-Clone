@@ -2,6 +2,10 @@
     margin-left: 10px ;
 }
 
+.row>h2{
+    color: white;
+}
+
 .row__imgs {
     display: flex;
     overflow: hidden;

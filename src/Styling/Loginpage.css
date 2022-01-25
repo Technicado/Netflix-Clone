@@ -98,3 +98,35 @@ border: none;
 font-weight: 600;
 cursor: pointer;
 }
+
+
+
+
+
+@media screen and (max-width: 414px) {
+.login__body>h1 {
+    font-size: 1.7rem;
+}
+
+.login__body>h2 {
+    font-size: 1.5rem;
+}
+
+.login__body>h3 {
+    font-size: 1.2rem;
+}
+
+.login__body {
+    top: 20%;
+    padding: 0px 50px;
+}
+
+.login__input>form>input {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.login__start__btn {
+    width: 110%;
+}
+}
