@@ -46,3 +46,9 @@
     cursor: pointer;
     text-decoration: underline;
 }
+
+@media screen and (max-width: 414px) {
+    .signup {
+        max-width: 200px;
+    }
+}
